@@ -20,6 +20,7 @@ function increment(){
     countEl.textContent=updatedValue
 }
 
+
 let decbutton=document.createElement("button");
 decbutton.innerHTML="Decrement";
 decbutton.setAttribute("onclick","decrement()");
