@@ -3,6 +3,7 @@
 // appending
 // functionality
 
+
 let rootEl=document.getElementById("root");
 
 let countEl=document.createElement("h2");
