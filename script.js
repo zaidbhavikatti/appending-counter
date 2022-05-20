@@ -5,7 +5,6 @@
 
 
 let rootEl=document.getElementById("root");
-
 let countEl=document.createElement("h2");
 countEl.innerText=0;
 rootEl.appendChild(countEl);
